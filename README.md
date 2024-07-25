@@ -22,3 +22,7 @@ In this project we'll build a solution for sample application (Expense Tracker) 
 #### 5. Autoscaling Configuration:
 
 - Used managed nodegroups for autoscaling
+
+
+### 6. Team Member
+Annika Strooper, Ohla Kharabet, Farhan Reiser, Chi Thien Pham
